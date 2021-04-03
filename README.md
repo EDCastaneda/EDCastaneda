@@ -1,6 +1,6 @@
 ### Hi there, I'm ED - 👋
 
-[![Website](https://img.shields.io/website?label=twevo.net&style=for-the-badge&url=https%3A%2F%2Ftwevo.net)](https://twevo.net)
+[![Website](https://img.shields.io/website?label=twevo.net&style=for-the-badge&url=https%3A%2F%2Ftwevo.net)](https://www.twevo.net/)
 [![Website](https://img.shields.io/website?label=sleekits.com&style=for-the-badge&url=https%3A%2F%2Fsleekits.com)](https://sleekits.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SleekitsTech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSleekitsTech&screen_name=SleekitsTech)
 
@@ -89,7 +89,7 @@
 
 ---
 
-[twevo]: https://twevo.net
+[twevo]: https://www.twevo.net/
 [sleekits]: https://sleekits.com
 [twitter]: https://twitter.com/SleekitsTech
 [linkedin]: https://www.linkedin.com/in/eduardo-castaneda/
