@@ -85,7 +85,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [+ blog posts...](https://sleekits.medium.com/)
+➡️ [+ blog posts...](https://edcastaneda.github.io/)
 
 ---
 
