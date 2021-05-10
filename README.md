@@ -76,7 +76,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [+ videos...]()
+➡️ [+ videos...](https://www.youtube.com/channel/UCWQKehQGtp73ATrWnfnbwOQ)
 
 ---
 
