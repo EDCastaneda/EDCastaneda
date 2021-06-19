@@ -7,7 +7,7 @@
 ## I'm a Developer, Engineer, Business Enthusiast and Entrepreneur!
 
 - 🔭 I work @[twevo][twevo]: doing from Software & QA Eng. to Funding & Strategy!
-- 🌱 I’m currently learning ML + Big Data + Finance @[sleekits][sleekits]
+- 🌱 I’m currently learning ML + Big Data + Finance + Trading @[sleekits][sleekits]
 - 👯 I’m looking to collaborate with developers and traders to build fintech tools.
 - 💬 Ask me about web development, hardware startups, EU Funding and Telecom.
 - ⚡ Fun fact: I love reading, cross-fit & JRE podcast 🎧
