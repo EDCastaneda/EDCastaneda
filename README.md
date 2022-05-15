@@ -1,12 +1,11 @@
 ### Hi there, I'm ED - 👋
 
-[![Website](https://img.shields.io/website?label=CTW&style=for-the-badge&url=criticaltechworks.com)](https://www.criticaltechworks.com/)
 [![Website](https://img.shields.io/website?label=sleekits.com&style=for-the-badge&url=https%3A%2F%2Fsleekits.com)](https://sleekits.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SleekitsTech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSleekitsTech&screen_name=SleekitsTech)
 
 ## I'm a Developer, Engineer, Business Enthusiast and Entrepreneur!
 
-- 🔭 I work @[CTW][Critical TechWorks]: as a product owner and product manager
+- 🔭 I work @[ctw][Critical TechWorks]: as a product owner and product manager
 - 👨‍💻: I work as consultant for Software development, QA, Funding & product Strategy!
 - 🌱 I’m currently learning ML + Big Data + Finance + Trading @[sleekits][sleekits]
 - 👯 I’m looking to collaborate with developers and traders to build fintech tools.
@@ -90,7 +89,7 @@
 
 ---
 
-[CTW]: https://www.criticaltechworks.com/
+[ctw]: https://www.criticaltechworks.com/
 [sleekits]: https://sleekits.com
 [twitter]: https://twitter.com/SleekitsTech
 [linkedin]: https://www.linkedin.com/in/eduardo-castaneda/
