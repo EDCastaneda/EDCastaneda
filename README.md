@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Engineer, Business Enthusiast and Entrepreneur!
 
-- 🔭 I work @[ctw][Critical TechWorks]: as a product owner and product manager
+- 🔭 I work at @[ctw][ctw]: as a product owner and product manager
 - 👨‍💻: I work as consultant for Software development, QA, Funding & product Strategy!
 - 🌱 I’m currently learning ML + Big Data + Finance + Trading @[sleekits][sleekits]
 - 👯 I’m looking to collaborate with developers and traders to build fintech tools.
