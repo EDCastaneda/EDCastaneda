@@ -6,11 +6,11 @@
 ## I'm a Developer, Engineer, Business Enthusiast and Entrepreneur!
 
 - 🔭 I work at @[ctw][ctw]: as a product owner and product manager
-- 👨‍💻: I work as consultant for Software development, QA, Funding & product Strategy!
+- 👨‍💻: I work as software development, QA, Funding & product strategy consultant!
 - 🌱 I’m currently learning ML + Big Data + Finance + Trading @[sleekits][sleekits]
 - 👯 I’m looking to collaborate with developers and traders to build fintech tools.
 - 💬 Ask me about web development, hardware startups, EU Funding and Telecom.
-- ⚡ Fun fact: I love reading, cross-fit & JRE podcast 🎧
+- ⚡ Fun fact: I love reading, cross-fit & JRE podcasts 🎧
 
 
 ### Connect with me:
